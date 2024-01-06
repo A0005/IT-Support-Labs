@@ -12,7 +12,7 @@ By completing this project I have acquired the following skills:
 • Managing printers and other relevant features
 
 • 30 Real-World Tickets Addressing Various IT Scenarios
-<br />
+
 
 [Jobskillshare Community Udemy Course](https://www.udemy.com/course/it-support-project-for-it-professionals/)
 
