@@ -11,7 +11,7 @@ This lab example shows how to set up a virtual Windows 10 PC on VMware Fusion us
 
 <h2>Program walk-through:</h2>
 
-1 - First download the Windows 10 ISO from Microsoft's website and install it on VMware Fusion following the same steps as the Windows Server 2022 installation from the previous lab. After successfully installing it you will be presented with this page choose your region then select Yes.<br/>
+1 - First download the Windows 10 ISO from Microsoft's website and install it on VMware Fusion following the same steps as the Windows Server 2022 installation from the previous lab. After successfully installing it you will be presented with this page choose your region then select Yes. <br/>
 <img width="900" alt="1" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/68dc13b2-063c-49b5-be88-a03f654b66d1">
 <br />
 
