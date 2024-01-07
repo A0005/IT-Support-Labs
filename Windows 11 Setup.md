@@ -95,7 +95,7 @@ This lab example shows how to set up a virtual Windows 11 PC on VMware Fusion us
 <img width="900" alt="21" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/b7fd2f0c-c051-4a95-9514-ae0d25e80da9">
 <br />
 
-22 - Select Check for updates. <br/>
+22 - After your PC restarts you can go back and check that it is up to date. <br/>
 <img width="900" alt="22" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/39ae5659-7624-4694-ab86-65541b235847">
 <br />
 
