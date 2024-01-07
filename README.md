@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-I am using [Jobskillshare Community Udemy Course](https://www.udemy.com/course/it-support-project-for-it-professionals/) to gain hands-on experience to supplement my IT knowledge.
+I completed [Jobskillshare Community Udemy Course](https://www.udemy.com/course/it-support-project-for-it-professionals/) to gain hands-on experience to supplement my IT knowledge.
 
 By completing this project I have acquired the following skills:
 
