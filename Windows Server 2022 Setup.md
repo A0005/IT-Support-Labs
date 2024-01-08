@@ -16,19 +16,19 @@ This lab example shows how to set up a virtual Windows Server 2022 on VMware Fus
 <img width="900" alt="1" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/592bbbb7-57a9-49ae-8b1a-2bd6d7fc31b9">
 <br />
 
-2	- Select create a custom virtual machine then contiune. <br/>
+2	- Select create a custom virtual machine then Contiune. <br/>
 <img width="900" alt="2" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/feba0f65-2c9a-4420-9030-54097c491680">
 <br />
 
-3	- Select Microsoft Windows > Windows Server 2022 then contiune. <br/>
+3	- Select Microsoft Windows > Windows Server 2022 then Contiune. <br/>
 <img width="900" alt="3" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/02a58ed0-4a09-4933-9cfb-fc962cbf5901">
 <br />
 
-4 - Keep the default and select contiune. <br/>
+4 - Keep the default and select Contiune. <br/>
 <img width="900" alt="4" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/4d363085-2ab3-40ba-968f-153207055df4">
 <br />
 
-5 - Keep the default and select continue. <br/>
+5 - Keep the default and select Continue. <br/>
 <img width="900" alt="5" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/b57198c5-377a-469c-a417-cdd1be96151a">
 <br />
 
@@ -48,7 +48,7 @@ This lab example shows how to set up a virtual Windows Server 2022 on VMware Fus
 <img width="900" alt="9" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/ab207a77-6e5a-404a-8257-f1de373d0afd">
 <br />
 
-10 - After that you can exit out of the Cuostomize Settings and right click on your Server 2022 virtual machine and select Start Up. <br>
+10 - After that you can exit out of the Customize Settings and right click on your Server 2022 virtual machine and select Start Up. <br>
 <img width="900" alt="10" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/4ad934e3-d01a-4138-899d-768eb39db39c">
 <br />
 
@@ -57,7 +57,7 @@ This lab example shows how to set up a virtual Windows Server 2022 on VMware Fus
 <br />
 
 12 - Select Install now. <br/>
-<img width="1043" alt="12" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/0da2597f-258d-4f76-b77a-0684f48e71f2">
+<img width="900" alt="12" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/0da2597f-258d-4f76-b77a-0684f48e71f2">
 <br />
 
 13 - Choose  Windows Server 2022 Datacenter Evaluation (Desktop Experience) then select Next. <br/>
@@ -89,10 +89,10 @@ This lab example shows how to set up a virtual Windows Server 2022 on VMware Fus
 <br />
 
 20 - The installation has begun; after it is finished, the virtual machine will restart itself. <br/> 
-<img width="1075" alt="20" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/169b53d4-b490-4a90-89c7-9639b88645cb">
+<img width="900" alt="20" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/169b53d4-b490-4a90-89c7-9639b88645cb">
 <br />
 
-21 - Create a password and reenter it again the select Finish. <br/>
+21 - Create a password and reenter it again then select Finish. <br/>
 <img width="900" alt="21" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/1f082234-52f5-4669-a9db-d4f41eb3160b">
 <br />
 
@@ -101,7 +101,7 @@ This lab example shows how to set up a virtual Windows Server 2022 on VMware Fus
 <br />
 
 23 - Enter your password and hit enter. <br/> 
-<img width="1046" alt="23" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/48374e15-b70b-41d9-8f0a-f6016f2fc87f">
+<img width="900" alt="23" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/48374e15-b70b-41d9-8f0a-f6016f2fc87f">
 <br />
 
 24 - The Windows Server 2022 has been installed. <br/>
