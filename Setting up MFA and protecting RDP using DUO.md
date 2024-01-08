@@ -40,7 +40,7 @@ This lab example shows how to set up MFA on Windows Server 2022 and protect RDP 
 <img width="900" alt="7" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/8e6098fe-e306-423d-8c88-941d86ab5258">
 <br />
 
-8 - Confirmation that the enrollment was a success. <br/>
+8 - Confirmation that the enrollment was a success. To utilize any or all of your Duo applications, a user simply needs to finish the enrolling and activation process once. <br/>
 <img width="900" alt="8" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/2b9c6a69-4468-449e-8e8b-6a4a2e0d4029">
 <br />
 
