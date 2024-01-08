@@ -87,7 +87,7 @@ This lab example shows how to set up a virtual Windows 11 PC on VMware Fusion us
 <img width="900" alt="19" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/1e70766c-68ea-4422-be12-2fda5c591db1">
 <br />
 
-20 - Confirmation that updates are being downloaded and installed. <br/> 
+20 - Click Install all. Confirmation that updates are being downloaded and installed. <br/> 
 <img width="900" alt="20" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/3f5809eb-fb22-4a86-b382-4aa5f21cf2d2">
 <br />
 
