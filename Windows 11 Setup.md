@@ -59,7 +59,7 @@ This lab example shows how to set up a virtual Windows 11 PC on VMware Fusion us
 <img width="900" alt="12" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/648eaa3a-8c6d-4c8f-91f8-578448c6b46e">
 <br />
 
-13 - Right click on the windows start up icon and select System. <br/>
+13 - Once the configuration completes you will be presented with this page. Right click on the windows start up icon and select System. <br/>
 <img width="900" alt="13" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/03fe260c-4156-478f-82d7-346f7aee1219">
 <br />
 
