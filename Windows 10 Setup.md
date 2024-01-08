@@ -1,4 +1,5 @@
 <h1>Windows 10</h1>
+
 <h2>Description</h2>
 This lab example shows how to set up a virtual Windows 10 PC on VMware Fusion using a MacBook Pro (Intel) serving as the host machine.
 <br />
