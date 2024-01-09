@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-I completed [Jobskillshare Community Udemy Course](https://www.udemy.com/course/it-support-project-for-it-professionals/) to gain hands-on experience to supplement my IT knowledge.
+I completed [Jobskillshare Community Udemy Course](https://www.udemy.com/course/it-support-project-for-it-professionals/) to gain hands-on experience to supplement my IT knowledge and used [Kevtech IT Support](https://www.youtube.com/watch?v=tjqIcaB8StI) YouTube video for the setting up MFA and protecting RDP using DUO.
 
 By completing this project I have acquired the following skills:
 
