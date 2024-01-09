@@ -44,7 +44,7 @@ This lab example shows how to set up a virtual Windows Server 2022 on VMware Fus
 <img width="900" alt="8" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/49fe888d-0598-4694-9704-9ab399d1a01b">
 <br />
 
-9 - Check the box that says Connect CD/DVD Drive then select the drop down menu and browse for the Server 2022 ISO that you downloaded. <br/>  
+9 - Check the box that says Connect CD/DVD Drive then select the drop down menu and browse for the Server 2022 ISO that you downloaded. <br/>
 <img width="900" alt="9" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/ab207a77-6e5a-404a-8257-f1de373d0afd">
 <br />
 
