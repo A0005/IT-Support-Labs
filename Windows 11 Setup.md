@@ -43,7 +43,7 @@ This lab example shows how to set up a virtual Windows 11 PC on VMware Fusion us
 <img width="900" alt="8" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/2b2ffb82-a22a-4ae4-9afe-846a705b88ba">
 <br />
 
-9 - Enter your password then select Next. <br/>  
+9 - Enter your password then select Next. <br/>
 <img width="900" alt="9" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/258f4e67-5e0c-4fae-9550-c976c7be3a2a">
 <br />
 
