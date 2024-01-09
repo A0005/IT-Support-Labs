@@ -44,7 +44,7 @@ This lab example shows how to set up a virtual Windows 10 PC on VMware Fusion us
 <img width="900" alt="8" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/8673b86a-f7ca-4467-aacd-942099fa558e">
 <br />
 
-9 - Since this is a lab installation you can turn off all these privacy settings or just click Accept. <br/>  
+9 - Since this is a lab installation you can turn off all these privacy settings or just click Accept. <br/>
 <img width="900" alt="9" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/5259590d-deb1-457c-9ccc-baeb152b9065">
 <br />
 
