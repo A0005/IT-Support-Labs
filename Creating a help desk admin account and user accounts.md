@@ -137,3 +137,15 @@ This lab example shows how to create a help desk admin account, organization uni
 <br />
 
 </p>
+
+
+
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+--!>
