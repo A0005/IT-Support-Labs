@@ -10,9 +10,11 @@ By completing this project I have acquired the following skills:
 
 • Managing printers and other relevant features
 
-• Working with Windows Server and Windows 10/11
+• Setting up MFA and protecting RDP using DUO.
 
 • Setting up TCP/IPv4 and creating a PowerShell script to add users.
+
+• Installing Windows Server 2022, Windows 10 and Window 11 on VMWare Fusion
 
 • Troubleshooting 30 Real-World Tickets Addressing and Various IT Scenarios
 
