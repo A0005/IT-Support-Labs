@@ -10,7 +10,9 @@ By completing this project I have acquired the following skills:
 
 • Managing printers and other relevant features
 
-• Working with Windows Server and Windows 11
+• Working with Windows Server and Windows 10/11
+
+• Setting up TCP/IPv4 and creating a PowerShell script to add users.
 
 • Troubleshooting 30 Real-World Tickets Addressing and Various IT Scenarios
 
