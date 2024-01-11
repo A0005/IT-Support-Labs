@@ -183,12 +183,3 @@ This lab example shows how to convert Windows Server 2022 to a Domain Controller
 
 
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
