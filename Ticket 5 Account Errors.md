@@ -1,4 +1,4 @@
-<h1>Ticket 5 Account Error</h1>
+<h1>Ticket 5 Account Errors</h1>
 
 <h2>Description</h2>
 This lab example shows how to solve account errors related to a user that can not sign in with their credentials becasue their domain is not availabe.
