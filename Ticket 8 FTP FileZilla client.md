@@ -112,7 +112,7 @@ This lab example shows how to set up a FTP server on Windows Server 2022, instal
 <img width="900" alt="25" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/bd6dc0b2-d5ba-4642-9053-3e907effd2c5">
 <br />
 
-26 - Check the Predefined button, click on the drop down arrow for AllJoyn Router and choose FTP Server. <br/>
+26 - Check the Predefined button, click on the drop down arrow for AllJoyn Router and choose FTP Server. Then select Next. <br/>
 <img width="900" alt="26" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/31948c90-8096-499c-9956-582079b32d65">
 <br />
 
