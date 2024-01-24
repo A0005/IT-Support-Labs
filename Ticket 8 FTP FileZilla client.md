@@ -156,10 +156,6 @@ This lab example shows how to set up a FTP server on Windows Server 2022, instal
 <img width="900" alt="35" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/6e5671fe-1e25-4985-80f6-99f634bfcc7c">
 <br />
 
-36 - Paste in the script you copied before and hit enter. <br/>
-<img width="900" alt="36" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/7d9f240f-a642-4dbb-abe7-1bba4b95a12d">
-<br />
-
 37 - Check the Desktop Icon box then select Next. <br/>
 <img width="900" alt="37" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/d2568cbd-6c8c-48ad-a50b-83499ebbfcbb">
 <br />
