@@ -136,7 +136,7 @@ This lab example shows how to set up a FTP server on Windows Server 2022, instal
 <img width="900" alt="31" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/85d98d19-a4cf-49bb-a296-5e4eaca33afb">
 <br />
 
-32 - Select the FileZilla setup. <br/>
+32 - Double-click on the FileZilla setup. <br/>
 <img width="900" alt="32" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/8540be78-fea5-4b04-9042-38234b390b90">
 <br />
 
