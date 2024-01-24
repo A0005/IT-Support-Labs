@@ -137,7 +137,7 @@ This lab example shows how to set up a FTP server on Windows Server 2022, instal
 <br />
 
 32 - Select the FileZilla setup. <br/>
-<img width="900" alt="32" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/535d02dd-5358-422f-9b3b-28dd7db3ccf0">
+<img width="900" alt="32" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/8540be78-fea5-4b04-9042-38234b390b90">
 <br />
 
 33 - Enter in your domain admin credentials. <br/>
