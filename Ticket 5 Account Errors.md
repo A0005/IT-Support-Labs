@@ -16,7 +16,7 @@ This lab example shows how to solve account errors related to a user that can no
 <img width="900" alt="1" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/12f7e4c0-8ade-42a9-abcc-21014691abbd">
 <br />
 
-2	- First log in with your local admin account (.\username). <br/>
+2	- First login with your local admin account (.\username). <br/>
 <img width="900" alt="2" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/ad25191a-4c10-4acd-82f3-4a60834b5f7d">
 <br />
 
@@ -24,7 +24,7 @@ This lab example shows how to solve account errors related to a user that can no
 <img width="900" alt="3" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/2d47d9ae-793e-4ed1-84a4-e5856d5c7281">
 <br />
 
-4 - Select Use the following DNS server addresses and enter the Windows Server 2022 IP address. Select OK and restart the Windows 10 VM. The user should be able log in this time. <br/>
+4 - Select Use the following DNS server addresses and enter the Windows Server 2022 IP address. Select OK and restart the Windows 10 VM. The user should be able login this time. <br/>
 <img width="900" alt="4" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/fa2ce35d-ec04-4d98-b794-821584d7ad5c">
 <br />
 
@@ -56,7 +56,7 @@ This lab example shows how to solve account errors related to a user that can no
 <img width="900" alt="11" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/35e6745f-4e5e-4ac5-98e8-7c89d00b58b5">
 <br />
 
-12 - Log in with the local admin account. <br/>
+12 - Login with the local admin account. <br/>
 <img width="900" alt="12" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/7fc75d5c-0f8f-4425-89fa-eb601245c7e6">
 <br />
 
@@ -72,7 +72,7 @@ This lab example shows how to solve account errors related to a user that can no
 <img width="900" alt="15" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/82d84d3d-e785-4017-a2bb-1135e72cde8b">
 <br />
 
-16 - Enter in a domain user credentials and log in. <br/>
+16 - Enter in a domain user credentials and login. <br/>
 <img width="900" alt="16" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/14fe5f54-f574-4192-9440-b9abf4a9ed35">
 <br />
 
