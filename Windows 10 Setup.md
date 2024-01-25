@@ -56,7 +56,7 @@ This lab example shows how to set up a virtual Windows 10 PC on VMware Fusion us
 <img width="900" alt="11" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/f7ef47f1-289e-400f-a401-4ae70d58bb0c">
 <br />
 
-12 - Right click on the windows start up icon and select System. <br/>
+12 - Right-click on the windows start up icon and select System. <br/>
 <img width="900" alt="12" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/4f05abbf-086d-46a2-9f40-510d2060d34c">
 <br />
 
