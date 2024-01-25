@@ -24,7 +24,7 @@ This lab example shows how to solve a user trying to acces another users machine
 <img width="900" alt="3" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/f6c35786-4c08-4ee1-a1c7-d682951d7400">
 <br />
 
-4 - In the Windows 11 VM log in with the domain user and navigate to the Remote Desktop settings. You can see that this VM is denying access through RDP. <br/>
+4 - In the Windows 11 VM login with the domain user and navigate to the Remote Desktop settings. You can see that this VM is denying access through RDP. <br/>
 <img width="900" alt="4" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/0c9aa4a2-6f61-441d-ac0d-60a13718953c">
 <br />
 
@@ -52,7 +52,7 @@ This lab example shows how to solve a user trying to acces another users machine
 <img width="900" alt="10" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/b525fb87-2b0b-4a06-8ea6-b3d5a7d645cd">
 <br />
 
-11 - Log in with the users Windows 10 credentials. <br/>
+11 - Login with the users Windows 10 credentials. <br/>
 <img width="900" alt="11" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/c1318ae9-dbc1-46b7-99d6-c1e81dbdd37d">
 <br />
 
