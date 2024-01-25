@@ -12,11 +12,11 @@ This lab example shows how to create, share and map a folder.
 
 <h2>Program walk-through:</h2>
 
-1 - In the Server 2022 VM open file explore. Then double click Local Disk (C:). <br/>
+1 - In the Windows Server 2022 VM open file explore. Then double-click Local Disk (C:). <br/>
 <img width="900" alt="1" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/cfa50e93-f094-425f-84e1-4d53e4d318d2">
 <br />
 
-2	- Inside Local Disk (C:) right click then select New > Folder. Name it groupfiles. <br/>
+2	- Inside Local Disk (C:) right-click then select New > Folder. Name it groupfiles. <br/>
 <img width="900" alt="2" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/149c1770-f9d0-4a1b-b6b1-f543283a4907">
 <br />
 
@@ -24,7 +24,7 @@ This lab example shows how to create, share and map a folder.
 <img width="900" alt="3" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/3fb0f3fa-2359-4b0a-b512-36c8a452ccf6">
 <br />
 
-4 - Go back and right click on the folder groupfiles then select Properties. <br/>
+4 - Go back and right-click on the folder groupfiles then select Properties. <br/>
 <img width="900" alt="4" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/1caf547a-c65f-4fbe-b790-309993eeb71a">
 <br />
 
@@ -64,7 +64,7 @@ This lab example shows how to create, share and map a folder.
 <img width="900" alt="13" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/c856e4a5-7ca0-42dd-8d5a-9724ac0219d6">
 <br />
 
-14 - Double click the Sales folder. <br/>
+14 - Double-click the Sales folder. <br/>
 <img width="900" alt="14" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/6359c821-8a86-4efb-b958-3f60c7012210">
 <br />
 
@@ -72,7 +72,7 @@ This lab example shows how to create, share and map a folder.
 <img width="900" alt="15" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/6d2f6418-deec-4fb2-a0d9-79c047ec5103">
 <br />
 
-16 - Now let's map the drive for the user. Right click on This PC then select Map network drive. <br/>
+16 - Now let's map the drive for the user. Right-click on This PC then select Map network drive. <br/>
 <img width="900" alt="16" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/c5e6024f-483d-43bd-a41e-9672f94c108c">
 <br />
 
