@@ -12,7 +12,7 @@ This lab example shows how to create a help desk admin account, organization uni
 
 <h2>Program walk-through:</h2>
 
-1 - Start up your Server 2022, open Server Manager then navigate to Active Directory Users and Computers. <br/>
+1 - Start up your Windows Server 2022, open Server Manager then navigate to Active Directory Users and Computers. <br/>
 <img width="900" alt="1" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/3efa965c-4553-4a4a-a5fa-26e4f54b8afb">
 <br />
 
@@ -68,7 +68,7 @@ This lab example shows how to create a help desk admin account, organization uni
 <img width="900" alt="14" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/382dc4d7-3acd-48e4-841e-b1e8d7979176">
 <br />
 
-15 - Right click on the windows startup icon and Sign out. <br/>
+15 - Right-click on the windows startup icon and Sign out. <br/>
 <img width="900" alt="15" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/8312e31a-110b-45a2-b167-078a4260551d">
 <br />
 
@@ -76,7 +76,7 @@ This lab example shows how to create a help desk admin account, organization uni
 <img width="900" alt="16" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/97a1244a-8c26-4083-8279-ffc213290e56">
 <br />
 
-17 - Log in with the user that you created. <br/>
+17 - Login with the user that you created. <br/>
 <img width="900" alt="17" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/ae72aebc-938a-4600-9901-22bdc658f266">
 <br />
 
@@ -88,11 +88,11 @@ This lab example shows how to create a help desk admin account, organization uni
 <img width="900" alt="19" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/ff016af1-7aee-4912-bc5a-89d5ee435a8e">
 <br />
 
-20 - Right click on the new OU that you created here for example will be the HR. <br/>
+20 - Right-click on the new OU that you created here for example will be the HR. <br/>
 <img width="900" alt="20" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/e9de6c13-6332-4a1e-a382-63b50cdebc77">
 <br />
 
-21 - Double click on the distinguishedName. <br/>
+21 - Double-click on the distinguishedName. <br/>
 <img width="900" alt="21" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/edaae7d6-e17b-45f6-8ab0-aa31c50d67a0">
 <br />
 
@@ -132,7 +132,7 @@ This lab example shows how to create a help desk admin account, organization uni
 <img width="900" alt="30" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/8fcd6cec-46d2-43c9-8d4f-dc8e5b07ddd4">
 <br />
 
-31 - The use of this script is useful.  It will make it easier for you to enter multiple users. <br/>
+31 - The use of this script is useful.  It will make it easier for you to add multiple users. <br/>
 <img width="900" alt="31" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/42c6452a-f6b3-4840-8769-0f446f33d4bc">
 <br />
 
