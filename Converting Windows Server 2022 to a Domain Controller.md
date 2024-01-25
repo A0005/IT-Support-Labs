@@ -11,7 +11,7 @@ This lab example shows how to convert Windows Server 2022 to a Domain Controller
 
 <h2>Program walk-through:</h2>
 
-1 - Start up your Server 2022 and right click on the windows startup button then choose System. <br/>
+1 - Start up your Windows Server 2022 and right-click on the windows startup button then choose System. <br/>
 <img width="900" alt="1" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/a4d72f76-f44a-45a1-9420-f99006e075c8">
 <br />
 
@@ -27,15 +27,15 @@ This lab example shows how to convert Windows Server 2022 to a Domain Controller
 <img width="900" alt="4" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/7b1dbf2f-8958-4828-a345-2466e2d99468">
 <br />
 
-5 - After your Server 2022 restarts you can go back to confirm that the name has been changed. <br/>
+5 - After your Windows Server 2022 restarts you can go back to confirm that the name has been changed. <br/>
 <img width="900" alt="5" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/1dcc1402-ff21-4111-a625-0ce5f1e43eb8">
 <br />
 
-6 - To turn the server into a domain controller and add computers to the domain later on, we must configure it to have a static IP address. Turn off your server and naviagte to the network adapter settings. Make sure it is set to Private to my Mac (this is if you are using a Mac Intel and VMware Fusion). Then start you server again. <br/>
+6 - To turn the Windows Server 2022 into a domain controller and add computers to the domain later on, we must configure it to have a static IP address. Turn off your Windows Server 2022 and naviagte to the network adapter settings. Make sure it is set to Private to my Mac (this is if you are using a Mac Intel and VMware Fusion). Then start your Windows Server 2022 again. <br/>
 <img width="900" alt="6" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/d11c7b67-31a6-4de2-a714-bb00ccc44288">
 <br />
 
-7 - On your taskbar you can see a computer icon. Right click it and select Open Network and Internet settings. <br/>
+7 - On your taskbar you can see a computer icon. Right-click it and select Open Network and Internet settings. <br/>
 <img width="900" alt="7" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/cf3ccf87-739b-46a6-839d-652e7803d337">
 <br />
 
@@ -43,11 +43,11 @@ This lab example shows how to convert Windows Server 2022 to a Domain Controller
 <img width="900" alt="8" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/85ca950d-eeca-49f3-9871-6711051f9ef5">
 <br />
 
-9 - Right click your virtual Ethernet and select Properties. <br/>
+9 - Right-click your virtual Ethernet and select Properties. <br/>
 <img width="900" alt="9" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/584e2836-e93a-4f61-820c-2fc7c6be77af">
 <br />
 
-10 - Double click Internet Protocol Version 4(TCP/IPv4). <br/>
+10 - Double-click Internet Protocol Version 4(TCP/IPv4). <br/>
 <img width="900" alt="10" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/d4728b16-62ff-45d9-a1ca-dcb7eea8d053">
 <br />
 
@@ -55,11 +55,11 @@ This lab example shows how to convert Windows Server 2022 to a Domain Controller
 <img width="900" alt="11" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/a5beb0b5-5347-4c92-a27d-36502fd6133f">
 <br />
 
-12 - Right click the windows startup logo and select Restart.  <br/>
+12 - Right-click the windows startup logo and select Restart.  <br/>
 <img width="900" alt="12" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/6942a727-d8c9-40b8-91da-69e94de56259">
 <br />
 
-13 - When you server restarts, Server Manager should open up straight away. If not cilck on the windows start up icon then select Server Manager.  <br/>
+13 - When your Windows Server 2022 restarts, Server Manager should open up straight away. If not cilck on the windows start up icon then select Server Manager.  <br/>
 <img width="900" alt="13" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/a94a84c0-8b90-4433-ae73-bbe547e77deb">
 <br />
 
@@ -167,7 +167,7 @@ This lab example shows how to convert Windows Server 2022 to a Domain Controller
 <img width="900" alt="39" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/297fb5c8-6921-46bc-bfb9-10a681fcae74">
 <br />
 
-40 - When the server restarts here you have the option to log in as the domain admin or local admin. Log in as the domain admin. <br/>
+40 - When the Windows Server 2022 restarts here you have the option to login as the domain admin or local admin. Login as the domain admin. <br/>
 <img width="900" alt="40" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/c929be47-3a91-46aa-96ed-7a9663482728">
 <br />
 
