@@ -52,7 +52,7 @@ This lab example shows how to solve a website access issue for a user. There are
 <img width="900" alt="10" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/be66bf36-9497-413c-81a9-833bee4d4a6c">
 <br />
 
-11 - If the website is still unreachably search for WordPad and Run as Administrator. <br/>
+11 - If the website is still unreachable search for WordPad and Run as Administrator. <br/>
 <img width="900" alt="11" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/6daa4ea7-cddf-4dc0-9b09-2ad1811759da">
 <br />
 
