@@ -1,4 +1,4 @@
-<h1>Ticket 9 RDP Access Error</h1>
+<h1>Ticket 9: RDP Access Error</h1>
 
 <h2>Description</h2>
 This lab example shows how to solve a user trying to acces another users machine through RDP.
