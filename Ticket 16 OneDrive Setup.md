@@ -1,7 +1,7 @@
 <h1>Ticket 16: OneDrive Setup</h1>
 
 <h2>Description</h2>
-This lab example shows how to setup OneDrive for a user.
+This lab example shows how to setup Microsoft Office 365 OneDrive for a user.
 
 <h2>Environments Used </h2>
 
