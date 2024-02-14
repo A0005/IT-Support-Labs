@@ -56,7 +56,7 @@ This lab example shows how to setup Microsoft Office 365 OneDrive for a user.
 <img width="1063" alt="11" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/b3342e64-7894-4f00-b916-82e5ffd81a1c">
 <br />
 
-12 - Login to the user's Microsoft Office 365 account from the web browser and select the OneDrive App to see that the document synchronized <br/>
+12 - Login to the user's Microsoft Office 365 account from the web browser and select the OneDrive App to see that the document synchronized.<br/>
 <img width="900" alt="12" src="https://github.com/A0005/IT-Support-Labs/assets/103763124/15a195b0-5b1b-439d-bc5e-769d5f4c6d1f">
 <br />
 
