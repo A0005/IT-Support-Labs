@@ -7,7 +7,7 @@ This lab example shows how to setup Microsoft Office 365 Teams for a user and te
 
 - <b>MacBook Pro (Intel)</b>
 - <b>VMware Fusion</b>
-- <b>Microsoft 365</b>
+- <b>Microsoft Office 365</b>
 - <b>MS Teams</b>
 
 <h2>Program walk-through:</h2>
