@@ -7,7 +7,7 @@ This lab example shows how to setup Microsoft Office 365 OneDrive for a user.
 
 - <b>MacBook Pro (Intel)</b>
 - <b>VMware Fusion</b>
-- <b>Microsoft 365</b>
+- <b>Microsoft Office 365</b>
 - <b>OneDrive</b>
 
 <h2>Program walk-through:</h2>
