@@ -7,7 +7,7 @@ This lab example shows how to trace an email that a user sent on Microsoft Offic
 
 - <b>MacBook Pro (Intel)</b>
 - <b>VMware Fusion</b>
-- <b>Microsoft 365</b>
+- <b>Microsoft Office 365</b>
 - <b>Outlook</b>
 
 <h2>Program walk-through:</h2>
